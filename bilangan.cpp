@@ -7,5 +7,5 @@
   cin >> a;
   cout << "masukkan angka kedua : ";
   cin >> b;
-  cout<<"penjumlahan = " <<a + b << endl;
+  cout<<"pengurangan = " <<a - b << endl;
   }
